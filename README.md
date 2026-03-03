@@ -232,6 +232,12 @@ Trust and transparency are core design principles.
 
 ## 8. Setup Instructions
 
+🔗 Hosted Demo (Recommended for Judges)
+A fully deployed and production-ready version of the application is available at:
+Live Application:
+https://study-buddy-ai-885.lovable.app
+This version includes all required environment variables and backend integrations (Supabase + OpenAI) configured securely in the hosted environment.
+
 ### 8.1 Clone Repository
 
 ```
