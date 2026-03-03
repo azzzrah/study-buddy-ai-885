@@ -1,1 +1,17 @@
-
+Title: Introduction to Differentiation
+Content:
+Definition of Derivative
+The derivative of a function measures how the function changes as its input changes.
+Power Rule
+If f(x) = x^n, then f'(x) = n*x^(n-1)
+Product Rule
+If f(x) = u(x)v(x), then
+f'(x) = u'(x)v(x) + u(x)v'(x)
+Chain Rule
+If f(x) = g(h(x)), then
+f'(x) = g'(h(x)) * h'(x)
+Applications
+Derivatives are used to:
+Compute slopes of tangent lines
+Solve optimization problems
+Model rates of change
