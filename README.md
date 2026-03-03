@@ -1,8 +1,3 @@
-Below is a clean, professional, judge-ready `README.md` without emojis and with structured formatting suitable for a technical submission.
-
-You can paste this directly into your repository and adjust names/links where necessary.
-
----
 
 # Study Buddy AI
 
