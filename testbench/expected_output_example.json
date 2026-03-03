@@ -1,1 +1,18 @@
-
+{
+  "subject": "Calculus - Differentiation",
+  "questions": [
+    {
+      "question_text": "What is the derivative of x^2?",
+      "options": ["x", "2x", "x^2", "2"],
+      "correct_answer": 1,
+      "explanation": "The derivative of x^n is n*x^(n-1).",
+      "hints": [
+        "Recall power rule.",
+        "Derivative of x^n equals n*x^(n-1).",
+        "Here n=2."
+      ],
+      "topic": "Power Rule",
+      "difficulty": "easy"
+    }
+  ]
+}
