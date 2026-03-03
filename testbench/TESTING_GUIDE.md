@@ -33,3 +33,11 @@
 - Topic-level analytics
 - Explainable recommendation engine
 
+git clone https://github.com/azzrah/study-buddy-ai-885.git
+cd study-buddy-ai-885
+mkdir testbench
+touch testbench/TESTING_GUIDE.md
+# add files
+git add .
+git commit -m "Added testbench and proper README"
+git push
