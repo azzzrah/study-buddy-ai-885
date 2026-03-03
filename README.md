@@ -50,6 +50,13 @@ npm run dev
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
+To test without Supabase setup:
+
+Use demo mode:
+- Demo login credentials:
+   email: demo@test.com
+   password: demo123
+
 ## What technologies are used for this project?
 
 This project is built with:
